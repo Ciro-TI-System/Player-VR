@@ -30,6 +30,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
+## DEMO
+
+
+https://github.com/Ciro-TI-System/Player-VR/assets/78507494/fef67ac4-0908-4c96-b6bf-5176dcd67784
+
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1253345035290143826). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
